@@ -15,6 +15,8 @@ Olá! Meu nome é Rafael e estou cursando **Desenvolvimento de Sistemas**. Sou a
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/> </a>
+
+  
 ---
 ## 🛠️ Tecnologias e Ferramentas  
 
