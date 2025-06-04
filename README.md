@@ -1,4 +1,16 @@
-### Hi there 👋
+### Opa blz? 👋
+<div id="toc" align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=rafafrd&repo=github-visitors-badge&label=%F0%9F%91%80%20VISITORS&countColor=%23F3F8FF&labelColor=black"  />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/rafafrd?style=for-the-badge&label=%F0%9F%91%A5%20Followers&labelColor=black&color=%23E26EE5" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?label=%F0%9F%93%A6%20REPOSITORIES&labelColor=black&color=%237E30E1&style=for-the-badge&query=public_repos&url=https://api.github.com/users/rafafrd" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/rafafrd?style=for-the-badge&label=%E2%AD%90%20Stars&labelColor=black&color=%2349108B" />
+
+---
+
+
 # Bem Vindo ao meu Github
 
 # 💻 Sobre Mim  
@@ -41,6 +53,10 @@ Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento full stac
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafafrd&layout=compact&theme=dark)  
 
 
+<br> 
+<div align="center" style="margin: 0 auto; width: fit-content;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ2dmN4eGNyYXZzYTlhNmtlemRpYXJubnR5MTRodWlvOWRwYno0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif"/>
+	
 <!--
 **rafafrd/rafafrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
