@@ -10,7 +10,6 @@
 
 ---
 
-
 # Bem Vindo ao meu Github
 
 # 💻 Sobre Mim  
@@ -18,7 +17,6 @@
 Olá! Meu nome é Rafael e estou cursando **Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia e estou sempre buscando aprender e aprimorar minhas habilidades. 🚀  
 
    ---
-   <br>
 <div align="center">
   <h3>🚀 Tecnologias & Ferramentas</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
