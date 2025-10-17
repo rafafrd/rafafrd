@@ -47,6 +47,12 @@ Olá! Meu nome é Rafael e estou cursando **Desenvolvimento de Sistemas**. Sou a
 	<img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
 	<img src="https://img.shields.io/badge/tampermonkey-00485B?logo=tampermonkey&logoColor=white&style=for-the-badge" alt="Tampersmonkey" />
 	<img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" />
+	<img src="https://img.shields.io/badge/plotly-7A76FF?logo=plotly&logoColor=white&style=for-the-badge" alt="plotly" />
+	<img src="https://img.shields.io/badge/Github_copilot-000000?logo=githubcopilot&logoColor=white&style=for-the-badge" alt="GitHub Copilot" />
+	<img src="https://img.shields.io/badge/streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" alt="streamlit" />
+	<img src="https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" />
+	<img src="https://img.shields.io/badge/kali_linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" alt="kali linux" />
+	<img src="https://img.shields.io/badge/google_gemini-8E75B2?logo=googlegemini&logoColor=white&style=for-the-badge" alt="google gemini" />
 	  
   </div>
 </div>
