@@ -30,7 +30,7 @@ const rafa = {
 ```
 
 <div id="toc" align="center">
-Olá! Meu nome é Rafael e estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre buscando aprender e aprimorar minhas habilidades. 🚀  
+	Olá! Meu nome é Rafael e estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre buscando aprender e aprimorar minhas habilidades. 🚀  
 </div>
 
    ---
