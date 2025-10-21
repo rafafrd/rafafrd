@@ -61,6 +61,7 @@ const rafa = {
 	<img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="nginx" />
 	<img src="https://img.shields.io/badge/insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" alt="insomnia" />
 	<img src="https://img.shields.io/badge/json-000000?logo=json&logoColor=white&style=for-the-badge" alt="json" />
+	<img src="https://img.shields.io/badge/yaml-CB171E?logo=yaml&logoColor=white&style=for-the-badge" alt="Yaml" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
