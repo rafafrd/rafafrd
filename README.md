@@ -85,6 +85,7 @@ const rafa = {
 	<img src="https://img.shields.io/badge/Github_copilot-000000?logo=githubcopilot&logoColor=white&style=for-the-badge" alt="GitHub Copilot" />
 	<img src="https://img.shields.io/badge/obsidian-7C3AED?logo=obsidian&logoColor=white&style=for-the-badge" alt="obsidian" />
 	<img src="https://img.shields.io/badge/canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" alt="canva" />
+	<img src="https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=white&style=for-the-badge" alt="Draw.io" />
   </div>
 </div>
 <br>
