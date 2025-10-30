@@ -98,7 +98,7 @@ const rafa = {
 
   <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
     <img src="https://github-readme-stats.vercel.app/api?username=rafafrd&show_icons=true&theme=dark" alt="Stats do GitHub">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafafrd&theme=material-palenight&hide_border=false">
+	<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafafrd&theme=material-palenight&hide_border=false"> bugado --> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafafrd&layout=compact&theme=dark" alt="Top Langs">
   </div>
 
