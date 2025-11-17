@@ -80,6 +80,7 @@ const rafa = {
 	<img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
 	<img src="https://img.shields.io/badge/tampermonkey-00485B?logo=tampermonkey&logoColor=white&style=for-the-badge" alt="Tampersmonkey" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />
 	<img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
 	<img src="https://img.shields.io/badge/Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge" alt="Microsoft Teams" />
 	<img src="https://img.shields.io/badge/google_gemini-8E75B2?logo=googlegemini&logoColor=white&style=for-the-badge" alt="google gemini" />
