@@ -95,14 +95,6 @@ const rafa = {
 ---
 
 <div id="toc" align="justify">
-  <h2>📈 GitHub Stats</h2>
-
-  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafafrd&show_icons=true&theme=dark" alt="Stats do GitHub">
-	<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafafrd&theme=material-palenight&hide_border=false"> bugado --> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafafrd&layout=compact&theme=dark" alt="Top Langs">
-  </div>
-
   <br> 
   <div align="center" style="margin: 0 auto; width: fit-content;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ2dmN4eGNyYXZzYTlhNmtlemRpYXJubnR5MTRodWlvOWRwYno0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif"/>
