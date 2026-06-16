@@ -23,7 +23,7 @@ const rafa = {
   localização:      "Campinas, São Paulo — Brasil",
   emprego:          "DevSecOps & Purple Team",
   formação:         [
-                      "Técnico em MSI — SENAI (concluído)",
+                      "Técnico em MSI — IFSP (concluído)",
                       "Técnico em Desenvolvimento de Sistemas — SENAI (em andamento)"
                     ],
   interesses:       ["DevSecOps & Cybersecurity", "Full Stack Development", "Data Engineering & AI", "Cloud"],
