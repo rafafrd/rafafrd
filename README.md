@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/stars/rafafrd?style=for-the-badge&label=%E2%AD%90%20Stars&labelColor=black&color=%2349108B" />
 </div>
 
----
 
 <div align="center">
 
@@ -37,13 +36,13 @@ const rafa = {
   Aprendiz de tecnologia atuando em DevSecOps e Purple Team — apaixonado por desenvolvimento de software, segurança de aplicações e engenharia de dados. 🚀
 </div>
 
----
+
 
 <div align="center">
 
 ## 🚀 Tecnologias & Ferramentas
 
----
+
 
 ### 🔐 DevSecOps & Segurança
 
