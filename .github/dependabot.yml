@@ -1,0 +1,10 @@
+# Mantém as actions do workflow atualizadas: o Dependabot troca o SHA fixado
+# e o comentário de versão, sempre via pull request (você revisa antes de entrar).
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    commit-message:
+      prefix: "ci"
